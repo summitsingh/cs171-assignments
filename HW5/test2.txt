@@ -1,0 +1,340 @@
+LUNAR LANDER INSTRUCTIONS
+
+You are landing on the moon and have taken over manual
+control 1000 feet above a good landing spot.  You have a
+downward velocity of 50 feet/sec.  150 units of fuel remain.
+
+Here are the rules that govern your APOLLO space-craft:
+ (1) After each second, the height, velocity, and remaining
+     fuel will be reported via DIGBY, your on-board computer.
+ (2) After each report, enter the number of units of fuel you
+     wish to burn during the next second.  Each unit of fuel
+     will slow your descent by 1 foot/sec.
+ (3) The maximum thrust of your engine is 30 feet/sec/sec or
+     0 units of fuel per second.
+ (4) When you contact the lunar surface, your descent engine
+     will automatically shut down and you will be given a 
+     report of your landing speed and remaining fuel.
+ (5) If you run out of fuel, you will no longer be prompted
+     to enter the number of units to burn each second.  Your
+     second by second reports will continue until you contact
+     the lunar surface.
+
+LUNAR LANDER
+Beginning landing procedure..........
+DIGBY wishes you good luck !!!!!!!
+
+Status of your APOLLO spacecraft:
+Time   : 0 seconds
+Height : 1000 feet
+Speed  : 50 feet/second
+Fuel   : 150
+Enter fuel burn amount: 10
+
+Status of your APOLLO spacecraft:
+Time   : 1 seconds
+Height : 952.5 feet
+Speed  : 45 feet/second
+Fuel   : 140
+Enter fuel burn amount: 10
+
+Status of your APOLLO spacecraft:
+Time   : 2 seconds
+Height : 910 feet
+Speed  : 40 feet/second
+Fuel   : 130
+Enter fuel burn amount: 10
+
+Status of your APOLLO spacecraft:
+Time   : 3 seconds
+Height : 872.5 feet
+Speed  : 35 feet/second
+Fuel   : 120
+Enter fuel burn amount: 10
+
+Status of your APOLLO spacecraft:
+Time   : 4 seconds
+Height : 840 feet
+Speed  : 30 feet/second
+Fuel   : 110
+Enter fuel burn amount: 20
+
+Status of your APOLLO spacecraft:
+Time   : 5 seconds
+Height : 817.5 feet
+Speed  : 15 feet/second
+Fuel   : 90
+Enter fuel burn amount: 10
+
+Status of your APOLLO spacecraft:
+Time   : 6 seconds
+Height : 805 feet
+Speed  : 10 feet/second
+Fuel   : 80
+Enter fuel burn amount: 10
+
+Status of your APOLLO spacecraft:
+Time   : 7 seconds
+Height : 797.5 feet
+Speed  : 5 feet/second
+Fuel   : 70
+Enter fuel burn amount: 10
+
+Status of your APOLLO spacecraft:
+Time   : 8 seconds
+Height : 795 feet
+Speed  : 0 feet/second
+Fuel   : 60
+Enter fuel burn amount: 10
+
+Status of your APOLLO spacecraft:
+Time   : 9 seconds
+Height : 797.5 feet
+Speed  : -5 feet/second
+Fuel   : 50
+Enter fuel burn amount: 10
+
+Status of your APOLLO spacecraft:
+Time   : 10 seconds
+Height : 805 feet
+Speed  : -10 feet/second
+Fuel   : 40
+Enter fuel burn amount: 10
+
+Status of your APOLLO spacecraft:
+Time   : 11 seconds
+Height : 817.5 feet
+Speed  : -15 feet/second
+Fuel   : 30
+Enter fuel burn amount: 10
+
+Status of your APOLLO spacecraft:
+Time   : 12 seconds
+Height : 835 feet
+Speed  : -20 feet/second
+Fuel   : 20
+Enter fuel burn amount: 20
+
+Status of your APOLLO spacecraft:
+Time   : 13 seconds
+Height : 862.5 feet
+Speed  : -35 feet/second
+Fuel   : 0
+**** OUT OF FUEL ****
+Enter fuel burn amount: 0
+
+Status of your APOLLO spacecraft:
+Time   : 14 seconds
+Height : 895 feet
+Speed  : -30 feet/second
+Fuel   : 0
+**** OUT OF FUEL ****
+Enter fuel burn amount: 0
+
+Status of your APOLLO spacecraft:
+Time   : 15 seconds
+Height : 922.5 feet
+Speed  : -25 feet/second
+Fuel   : 0
+**** OUT OF FUEL ****
+Enter fuel burn amount: 0
+
+Status of your APOLLO spacecraft:
+Time   : 16 seconds
+Height : 945 feet
+Speed  : -20 feet/second
+Fuel   : 0
+**** OUT OF FUEL ****
+Enter fuel burn amount: 0
+
+Status of your APOLLO spacecraft:
+Time   : 17 seconds
+Height : 962.5 feet
+Speed  : -15 feet/second
+Fuel   : 0
+**** OUT OF FUEL ****
+Enter fuel burn amount: 0
+
+Status of your APOLLO spacecraft:
+Time   : 18 seconds
+Height : 975 feet
+Speed  : -10 feet/second
+Fuel   : 0
+**** OUT OF FUEL ****
+Enter fuel burn amount: 0
+
+Status of your APOLLO spacecraft:
+Time   : 19 seconds
+Height : 982.5 feet
+Speed  : -5 feet/second
+Fuel   : 0
+**** OUT OF FUEL ****
+Enter fuel burn amount: 0
+
+Status of your APOLLO spacecraft:
+Time   : 20 seconds
+Height : 985 feet
+Speed  : 0 feet/second
+Fuel   : 0
+**** OUT OF FUEL ****
+Enter fuel burn amount: 0
+
+Status of your APOLLO spacecraft:
+Time   : 21 seconds
+Height : 982.5 feet
+Speed  : 5 feet/second
+Fuel   : 0
+**** OUT OF FUEL ****
+Enter fuel burn amount: 0
+
+Status of your APOLLO spacecraft:
+Time   : 22 seconds
+Height : 975 feet
+Speed  : 10 feet/second
+Fuel   : 0
+**** OUT OF FUEL ****
+Enter fuel burn amount: 0
+
+Status of your APOLLO spacecraft:
+Time   : 23 seconds
+Height : 962.5 feet
+Speed  : 15 feet/second
+Fuel   : 0
+**** OUT OF FUEL ****
+Enter fuel burn amount: 0
+
+Status of your APOLLO spacecraft:
+Time   : 24 seconds
+Height : 945 feet
+Speed  : 20 feet/second
+Fuel   : 0
+**** OUT OF FUEL ****
+Enter fuel burn amount: 0
+
+Status of your APOLLO spacecraft:
+Time   : 25 seconds
+Height : 922.5 feet
+Speed  : 25 feet/second
+Fuel   : 0
+**** OUT OF FUEL ****
+Enter fuel burn amount: 0
+
+Status of your APOLLO spacecraft:
+Time   : 26 seconds
+Height : 895 feet
+Speed  : 30 feet/second
+Fuel   : 0
+**** OUT OF FUEL ****
+Enter fuel burn amount: 0
+
+Status of your APOLLO spacecraft:
+Time   : 27 seconds
+Height : 862.5 feet
+Speed  : 35 feet/second
+Fuel   : 0
+**** OUT OF FUEL ****
+Enter fuel burn amount: 0
+
+Status of your APOLLO spacecraft:
+Time   : 28 seconds
+Height : 825 feet
+Speed  : 40 feet/second
+Fuel   : 0
+**** OUT OF FUEL ****
+Enter fuel burn amount: 0
+
+Status of your APOLLO spacecraft:
+Time   : 29 seconds
+Height : 782.5 feet
+Speed  : 45 feet/second
+Fuel   : 0
+**** OUT OF FUEL ****
+Enter fuel burn amount: 0
+
+Status of your APOLLO spacecraft:
+Time   : 30 seconds
+Height : 735 feet
+Speed  : 50 feet/second
+Fuel   : 0
+**** OUT OF FUEL ****
+Enter fuel burn amount: 0
+
+Status of your APOLLO spacecraft:
+Time   : 31 seconds
+Height : 682.5 feet
+Speed  : 55 feet/second
+Fuel   : 0
+**** OUT OF FUEL ****
+Enter fuel burn amount: 0
+
+Status of your APOLLO spacecraft:
+Time   : 32 seconds
+Height : 625 feet
+Speed  : 60 feet/second
+Fuel   : 0
+**** OUT OF FUEL ****
+Enter fuel burn amount: 0
+
+Status of your APOLLO spacecraft:
+Time   : 33 seconds
+Height : 562.5 feet
+Speed  : 65 feet/second
+Fuel   : 0
+**** OUT OF FUEL ****
+Enter fuel burn amount: 0
+
+Status of your APOLLO spacecraft:
+Time   : 34 seconds
+Height : 495 feet
+Speed  : 70 feet/second
+Fuel   : 0
+**** OUT OF FUEL ****
+Enter fuel burn amount: 0
+
+Status of your APOLLO spacecraft:
+Time   : 35 seconds
+Height : 422.5 feet
+Speed  : 75 feet/second
+Fuel   : 0
+**** OUT OF FUEL ****
+Enter fuel burn amount: 0
+
+Status of your APOLLO spacecraft:
+Time   : 36 seconds
+Height : 345 feet
+Speed  : 80 feet/second
+Fuel   : 0
+**** OUT OF FUEL ****
+Enter fuel burn amount: 0
+
+Status of your APOLLO spacecraft:
+Time   : 37 seconds
+Height : 262.5 feet
+Speed  : 85 feet/second
+Fuel   : 0
+**** OUT OF FUEL ****
+Enter fuel burn amount: 0
+
+Status of your APOLLO spacecraft:
+Time   : 38 seconds
+Height : 175 feet
+Speed  : 90 feet/second
+Fuel   : 0
+**** OUT OF FUEL ****
+Enter fuel burn amount: 0
+
+Status of your APOLLO spacecraft:
+Time   : 39 seconds
+Height : 82.5 feet
+Speed  : 95 feet/second
+Fuel   : 0
+**** OUT OF FUEL ****
+Enter fuel burn amount: 0
+
+***** CONTACT *****
+Touchdown at 39.8494 seconds.
+Landing velocity = 99.2472 feet/sec.
+0 units of fuel remaining.
+
+You totaled an entire mountain !!!!!
+Your family will be notified...by post.
